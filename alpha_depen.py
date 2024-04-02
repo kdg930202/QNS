@@ -30,6 +30,8 @@ from scipy.sparse.linalg import eigsh
 import os
 import pandas as pd
 
+
+###
 def alpha_depen(learning_rate, n_steps, alpha_, hi, g, ha, Et):
 
 
