@@ -11,7 +11,7 @@ from numpy.linalg import eig
 import flax
 from netket.optimizer.qgt import QGTJacobianPyTree
 
-#########
+###########
 from typing import Callable, Tuple
 from functools import partial
 
