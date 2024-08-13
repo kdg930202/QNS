@@ -24,9 +24,9 @@ from netket.operator.spin import sigmax, sigmay,sigmaz
 
 import matplotlib.pyplot as plt
 from tqdm import tqdm
-#################################################################
+###################################################################
 from scipy.sparse.linalg import eigsh
-#################################################################
+###################################################################
 import os
 import pandas as pd
 
